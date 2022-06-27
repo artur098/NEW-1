@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test1</title>
 </head>
-<body>Hello, this is a new style
+<body>Hello, this is a new style of our life.
     
 </body>
 </html>
